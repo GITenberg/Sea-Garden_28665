@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33478
     wikipedia: http://en.wikipedia.org/wiki/H.D.
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28665#Sea-Garden
 gutenberg_bookshelf: Poetry
 gutenberg_issued: '2009-05-02'
 gutenberg_type: Text
